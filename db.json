@@ -1,5 +1,6 @@
 {
-       "id": 1,
+   draws: [
+          { "id": 1,
        "drawStarted": "15:00",
        "drawEnded": "15:05",
        "drawChecked": "15:05",
@@ -32,5 +33,6 @@
                    0
                ]
            }
-   }
+   }}
+   ],
 }
