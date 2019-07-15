@@ -1,0 +1,36 @@
+{
+       "id": 1,
+       "drawStarted": "15:00",
+       "drawEnded": "15:05",
+       "drawChecked": "15:05",
+       "dateOfDraw": "01-01-2019 15:00",
+       "lastChange": "05-01-2019 10:10",
+       "dailyOrder": 1,
+       "isUploaded": "true",
+       "drawComittee": [
+           "name surname, name surname, name surname"
+       ],
+       "drawNotary": [
+           "name surname, name surname, name surname"
+       ],
+       "lotteries": {
+           "firstSet": {
+               "name": "Lottery 3of21",
+               "drawedNumbers": [
+                   0
+               ]
+           },
+           "secondSet": {
+               "name": "Lottery 9of49",
+               "drawedNumbers": [
+                   0
+               ]
+           },
+           "thirdSet": {
+               "name": "Lottery 20of80",
+               "drawedNumbers": [
+                   0
+               ]
+           }
+   }
+}
