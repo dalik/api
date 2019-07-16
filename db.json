@@ -39,19 +39,19 @@
    ],
    "list":[
       {
-         "date":"07-14-2019",
+         "drawStarted":"07-14-2019",
          "id":2,
-         "draw":"2"
+         "dailyOrder":"2"
       },
       {
-         "date":"07-15-2019",
+         "drawStarted":"07-15-2019",
          "id":1,
-         "draw":"1"
+         "dailyOrder":"1"
       },
       {
-         "date":"12-12-2019",
+         "drawStarted":"12-12-2019",
          "id":3,
-         "draw":"2"
+         "dailyOrder":"2"
       }
    ]
 }
